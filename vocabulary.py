@@ -1,4 +1,5 @@
 import nltk
+nltk.download('punkt')
 import pickle
 import os.path
 from pycocotools.coco import COCO
